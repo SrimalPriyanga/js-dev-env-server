@@ -1,6 +1,6 @@
 {
-  "name": "Node API example",
+  "name": "JavaScript Server Development Environment",
   "description": "A simple API built in Node and Express hosted on Heroku",
-  "repository": "https://github.com/SrimalPriyanga/js-dev-env-dapp-api.git",
+  "repository": "https://github.com/SrimalPriyanga/js-dev-env-server.git",
   "keywords": ["node", "express", "static"]
 }

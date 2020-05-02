@@ -15,8 +15,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/SrimalPriyanga/js-dev-env-dapp-api.git"
+    "url": "https://github.com/SrimalPriyanga/js-dev-env-server.git"
   },
-  "author": "",
+  "author": "Srimal Priyanga",
   "license": "MIT"
 }
